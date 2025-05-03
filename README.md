@@ -1,5 +1,11 @@
 # 📊 Revenue and Profit-focused Dashboard
 
+![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Macro Enabled](https://img.shields.io/badge/Macro-Enabled-brightgreen?style=for-the-badge)
+![AI Generated Data](https://img.shields.io/badge/Data-AI%20Generated-blueviolet?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-blue?style=for-the-badge)
+
+
 This is a revenue and profit-focused dashboard where you can visualize data and insights from the last five years to make informed and precise decisions. It focuses on:
 
 ### ✅ Key Features:
