@@ -3,13 +3,14 @@ Revenue and profit-focused dashboard where you can visualize the last five years
 1. Revenue Dashboard
 2. Profit Dashboard
 3. Advanced Formula with slicers
-4. Dynamic search-1
-5. Dynamic search-2
-6. Dynamic Dropdowns with LOOKUPS
-7. VBA (This may not work for some protocol issues)
+4. Dynamic search-1 (Macro-enabled)
+5. Dynamic search-2(Macro-enabled)
+6. Dynamic Dropdowns with LOOKUPS (May not work properly for software version)
+7. VBA (Macro-enabled)
 8. Pivot Table
 9. Chart with Slicers
 10. Conditional Formatting
+
 ![image](https://github.com/user-attachments/assets/300f2b98-b87c-48dc-9bd7-d1a3d02ec682)
 
 There is a macro-enabled workbook. Sheet 4,5,7 includes macros. You have to change the macro security to let the macro work on your PC. In case you want to go through a safer version, another .xlsx file has been uploaded where the macros-related sheets will not work.
