@@ -1,18 +1,27 @@
-# Revenue and Profit-focused Dashboard
-Revenue and profit-focused dashboard where you can visualize the last five years' data and insights, and take an informed and precise decision. Which focuses on:
-1. Revenue Dashboard
-2. Profit Dashboard
-3. Advanced Formula with slicers
-4. Dynamic search-1 (Macro-enabled)
-5. Dynamic search-2(Macro-enabled)
-6. Dynamic Dropdowns with LOOKUPS (May not work properly for software version)
-7. VBA (Macro-enabled)
-8. Pivot Table
-9. Chart with Slicers
-10. Conditional Formatting
+# 📊 Revenue and Profit-focused Dashboard
+
+This is a revenue and profit-focused dashboard where you can visualize data and insights from the last five years to make informed and precise decisions. It focuses on:
+
+### ✅ Key Features:
+✔️ **Revenue Dashboard**  
+✔️ **Profit Dashboard**  
+✔️ **Advanced Formulas with Slicers**  
+✔️ **Dynamic Search-1** *(Macro-enabled)*  
+✔️ **Dynamic Search-2** *(Macro-enabled)*  
+✔️ **Dynamic Dropdowns with LOOKUPS** *(May not work properly depending on software version)*  
+✔️ **VBA** *(Macro-enabled)*  
+✔️ **Pivot Table**  
+✔️ **Chart with Slicers**  
+✔️ **Conditional Formatting**
 
 ![image](https://github.com/user-attachments/assets/300f2b98-b87c-48dc-9bd7-d1a3d02ec682)
 
-There is a macro-enabled workbook. Sheet 4,5,7 includes macros. You have to change the macro security to let the macro work on your PC. In case you want to go through a safer version, another .xlsx file has been uploaded where the macros-related sheets will not work.
-I have added some basic and advanced things for Microsoft Excel. The data is mostly ChatGPT-generated. Problems have been collected from online and several other sources.
+⚙️ Macro Information
+This workbook is **macro-enabled**.  
+- Macros are included in **Sheets 4, 5, and 7**.  
+- You’ll need to **adjust your macro security settings** to allow them to work on your PC.  
+- For a safer version, a separate **`.xlsx` file** is uploaded (macros will be disabled in this version).
 
+🧠 Additional Notes
+I’ve included both **basic and advanced Excel techniques**.  
+The dataset is **AI-generated using ChatGPT**, and the challenges are compiled from **online sources and various references**.
