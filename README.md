@@ -22,12 +22,14 @@ This is a revenue and profit-focused dashboard where you can visualize data and 
 
 ![image](https://github.com/user-attachments/assets/300f2b98-b87c-48dc-9bd7-d1a3d02ec682)
 
-⚙️ Macro Information
-This workbook is **macro-enabled**.  
+⚙️ Macro Information:
+
+.xlsm workbook is **macro-enabled**.  
 - Macros are included in **Sheets 4, 5, and 7**.  
 - You’ll need to **adjust your macro security settings** to allow them to work on your PC.  
 - For a safer version, a separate **`.xlsx` file** is uploaded (macros will be disabled in this version).
 
-🧠 Additional Notes
+🧠 Additional Notes:
+
 I’ve included both **basic and advanced Excel techniques**.  
 The dataset is **AI-generated using ChatGPT**, and the challenges are compiled from **online sources and various references**.
